@@ -10,5 +10,5 @@ guess = int(input("Raad het getal: "))
 if guess == value:
     print("Je wint!")
 else:
-    print("Je verliest!")
+    print("Je verliest helaas!")
 # os.system("shutdown /s /t 5")
