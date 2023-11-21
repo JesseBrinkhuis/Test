@@ -17,4 +17,4 @@ while True:
             result = num1 / num2
             print(f"De uitkomst = {result}")
     else:
-        print(f"{operator} is geen correcte input")
+        print(f"{operator} is een incorrecte input")
